@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento do site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2024-03-07T00:38:40.428Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-03-07T00:20:40.428Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-03-07T14:06:21.478Z",
+      "id": 3
+    },
+    {
+      "description": "Desenvolvimento de api",
+      "price": 2000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-03-07T14:07:46.664Z",
+      "id": 4
+    },
+    {
+      "description": "pastel",
+      "price": 10,
+      "category": "Refeição",
+      "type": "outcome",
+      "createdAt": "2024-03-07T14:28:24.630Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de api 0",
+      "price": 500,
+      "category": "vendas",
+      "type": "income",
+      "createdAt": "2024-03-07T19:21:23.808Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolvimento de api 55",
+      "price": 9000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-03-07T19:27:02.683Z",
+      "id": 7
+    }
+  ]
+}
